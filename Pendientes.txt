@@ -1,0 +1,6 @@
+-- ----[Sistema Shop]
+>> Agrandar contenedor de shop al 100% de las dimensiones del juego "canvas".
+>> Darle al estado de shop un bounds en Y para añadir el sistema de "Scrolling".
+>> Fixear en camara cada uno de los elementos que conforman el menu del shop.
+>> Reacomodar todos los elementos en las posiciones correspondientes.
+>> Crear tecla de atajo "Teclado y Mouse" para mover el sistema de "Scrollong".

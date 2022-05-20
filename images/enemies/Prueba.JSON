@@ -1,0 +1,9 @@
+{
+	"Prueba": [
+		{
+			"dencity": 2, "friction": 0, "bounce": 0,
+			"filters": {"categoryBits": 1, "maskBits": 655535},
+			"shape": [0,0,212,0,106,175]
+		}
+	]
+}
